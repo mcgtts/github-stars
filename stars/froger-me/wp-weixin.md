@@ -1,6 +1,6 @@
 ---
 project: wp-weixin
-stars: 93
+stars: 94
 description: |-
     WordPress WeChat integration
 url: https://github.com/froger-me/wp-weixin

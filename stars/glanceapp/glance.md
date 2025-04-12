@@ -1,6 +1,6 @@
 ---
 project: glance
-stars: 22307
+stars: 22306
 description: |-
     A self-hosted dashboard that puts all your feeds in one place
 url: https://github.com/glanceapp/glance
