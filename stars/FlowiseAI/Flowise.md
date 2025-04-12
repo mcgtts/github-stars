@@ -1,6 +1,6 @@
 ---
 project: Flowise
-stars: 37134
+stars: 37139
 description: |-
     Drag & drop UI to build your customized LLM flow
 url: https://github.com/FlowiseAI/Flowise

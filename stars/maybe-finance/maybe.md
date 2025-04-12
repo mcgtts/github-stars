@@ -1,6 +1,6 @@
 ---
 project: maybe
-stars: 42706
+stars: 42710
 description: |-
     The OS for your personal finances
 url: https://github.com/maybe-finance/maybe

@@ -1,6 +1,6 @@
 ---
 project: AgentGPT
-stars: 33740
+stars: 33742
 description: |-
     🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 url: https://github.com/reworkd/AgentGPT

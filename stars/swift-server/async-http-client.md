@@ -1,6 +1,6 @@
 ---
 project: async-http-client
-stars: 966
+stars: 967
 description: |-
     HTTP client library built on SwiftNIO
 url: https://github.com/swift-server/async-http-client

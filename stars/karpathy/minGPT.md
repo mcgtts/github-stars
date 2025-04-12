@@ -1,6 +1,6 @@
 ---
 project: minGPT
-stars: 21729
+stars: 21730
 description: |-
     A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 url: https://github.com/karpathy/minGPT

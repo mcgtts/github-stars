@@ -1,6 +1,6 @@
 ---
 project: crewAI
-stars: 29954
+stars: 29958
 description: |-
     Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 url: https://github.com/crewAIInc/crewAI

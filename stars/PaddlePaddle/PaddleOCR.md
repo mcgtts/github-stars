@@ -1,6 +1,6 @@
 ---
 project: PaddleOCR
-stars: 48239
+stars: 48240
 description: |-
     Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 url: https://github.com/PaddlePaddle/PaddleOCR

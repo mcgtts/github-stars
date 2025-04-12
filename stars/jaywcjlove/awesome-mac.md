@@ -1,6 +1,6 @@
 ---
 project: awesome-mac
-stars: 81907
+stars: 81913
 description: |-
      Now we have become very big, Different from the original idea. Collect premium software in various categories.
 url: https://github.com/jaywcjlove/awesome-mac

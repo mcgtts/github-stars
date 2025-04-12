@@ -1,6 +1,6 @@
 ---
 project: password-manager-resources
-stars: 4324
+stars: 4325
 description: |-
     A place for creators and users of password managers to collaborate on resources to make password management better.
 url: https://github.com/apple/password-manager-resources
