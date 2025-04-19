@@ -1,6 +1,6 @@
 ---
 project: the-hive
-stars: 185
+stars: 184
 description: |-
     Multi-agent DeFi swarm for Solana research and execution.
 url: https://github.com/ask-the-hive/the-hive

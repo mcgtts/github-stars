@@ -1,6 +1,6 @@
 ---
 project: react-native-keyboard-aware-scroll-view
-stars: 5327
+stars: 5329
 description: |-
     A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.
 url: https://github.com/APSL/react-native-keyboard-aware-scroll-view

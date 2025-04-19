@@ -1,6 +1,6 @@
 ---
 project: automl
-stars: 6345
+stars: 6347
 description: |-
     Google Brain AutoML
 url: https://github.com/google/automl

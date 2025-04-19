@@ -1,6 +1,6 @@
 ---
 project: nest-wechat
-stars: 159
+stars: 161
 description: |-
     NestJS module for WeChat server-side API.
 url: https://github.com/baaxl9vh/nest-wechat

@@ -1,6 +1,6 @@
 ---
 project: awesome-whisper
-stars: 1617
+stars: 1626
 description: |-
     🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 url: https://github.com/sindresorhus/awesome-whisper
@@ -76,6 +76,7 @@ url: https://github.com/sindresorhus/awesome-whisper
 - [Speech Note](https://github.com/mkiol/dsnote) - Audio transcription Linux app.
 - [FridayGPT](https://www.fridaygpt.app) - Dictation macOS app powered by OpenAI API.
 - [EasyWhisper](https://easywhisper.io) - Windows and macOS app for audio transcription and speaker diarization. (Freemium)
+- [Audio Note](https://audionote.app) - Real-time audio transcription on macOS and Windows. (Freemium · Electron)
 
 ## Web apps
 

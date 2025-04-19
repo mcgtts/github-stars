@@ -1,6 +1,6 @@
 ---
 project: fe-interview
-stars: 25819
+stars: 25824
 description: |-
     前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 url: https://github.com/haizlin/fe-interview

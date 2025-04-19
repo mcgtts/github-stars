@@ -1,6 +1,6 @@
 ---
 project: markdownify-mcp
-stars: 1288
+stars: 1364
 description: |-
     A Model Context Protocol server for converting almost anything to Markdown
 url: https://github.com/zcaceres/markdownify-mcp

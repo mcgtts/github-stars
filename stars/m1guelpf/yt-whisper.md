@@ -1,6 +1,6 @@
 ---
 project: yt-whisper
-stars: 1396
+stars: 1395
 description: |-
     Using OpenAI's Whisper to automatically generate YouTube subtitles
 url: https://github.com/m1guelpf/yt-whisper

@@ -1,6 +1,6 @@
 ---
 project: llm-engineer-toolkit
-stars: 3217
+stars: 3338
 description: |-
     A curated list of  120+ LLM libraries category wise. 
 url: https://github.com/KalyanKS-NLP/llm-engineer-toolkit
@@ -235,6 +235,8 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | AgentEvals | Evaluators and utilities for evaluating the performance of your agents.                                         | [Link](https://github.com/langchain-ai/agentevals) |
 | LLMBox     | A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. | [Link](https://github.com/RUCAIBox/LLMBox) |
 | Opik       | An open-source end-to-end LLM Development Platform which also includes LLM evaluation.                           | [Link](https://github.com/comet-ml/opik) |
+| PydanticAI Evals | A powerful evaluation framework designed to help you systematically evaluate the performance of LLM applications. | [Link](https://ai.pydantic.dev/evals/) |
+
 
 
 

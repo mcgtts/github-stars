@@ -1,6 +1,6 @@
 ---
 project: glance
-stars: 22330
+stars: 22651
 description: |-
     A self-hosted dashboard that puts all your feeds in one place
 url: https://github.com/glanceapp/glance
@@ -203,6 +203,7 @@ services:
   glance:
     container_name: glance
     image: glanceapp/glance
+    restart: unless-stopped
     volumes:
       - ./config:/app/config
     ports:

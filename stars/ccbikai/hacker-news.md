@@ -1,6 +1,6 @@
 ---
 project: hacker-news
-stars: 1588
+stars: 1628
 description: |-
     一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 url: https://github.com/ccbikai/hacker-news
@@ -14,9 +14,7 @@ url: https://github.com/ccbikai/hacker-news
 
 预览地址: <https://hacker-news.agi.li>
 
-Podcast 订阅地址: <https://hacker-news.agi.li/rss.xml>
-
-RSS Reader 订阅地址: <https://hacker-news.agi.li/blog.xml>
+订阅地址: <https://hacker-news.agi.li/rss.xml>
 
 ## 主要特性
 
@@ -34,7 +32,7 @@ RSS Reader 订阅地址: <https://hacker-news.agi.li/blog.xml>
 - Edge TTS 语音合成
 - OpenAI API 内容生成
 - Tailwind CSS 样式处理
-- shadcn UI 组件库
+- shadcn-ui 组件库
 
 ## 工作流程
 
@@ -45,6 +43,9 @@ RSS Reader 订阅地址: <https://hacker-news.agi.li/blog.xml>
 5. 通过 RSS feed 和网页提供访问
 
 ## 本地开发
+
+> 项目由一个 Worker 和 Web 程序组成，Worker 负责抓取数据，处理音频。使用了 Cloudflare 的 R2 存储、 KV 存储、工作流和浏览器呈现。
+> Web 程序负责展示数据和提供 RSS 订阅。 Web 程序使用 Next.js 开发，可以看下 OpenNext 的 Cloudflare 适配器。
 
 1. 安装依赖:
 
@@ -58,19 +59,23 @@ pnpm install
 # .dev.vars
 NEXTJS_ENV=development
 NEXT_STATIC_HOST=http://localhost:3000/static
+
+# worker/.dev.vars
+WORKER_ENV=dev
+HACKER_NEWS_WORKER_URL=https://you-worker-url
+HACKER_NEWS_R2_BUCKET_URL=https://your-bucket-url
 OPENAI_API_KEY=your_api_key
 OPENAI_BASE_URL=https://api.openai.com/v1
-OPENAI_MODEL=gpt-4
-AUDIO_VOICE_ID=zh-CN-XiaoxiaoNeural
+OPENAI_MODEL=gpt-4.1
+
 ```
 
 3. 启动开发服务器:
 
 ```bash
 # 开发工作流
-pnpm opennext
-pnpm dev:workflow
-# curl "http://localhost:8787/workflow" # 手动触发工作流
+pnpm dev:worker
+# curl -X POST http://localhost:8787 # 手动触发工作流
 
 # 开发 Web 页面
 pnpm dev
@@ -78,29 +83,33 @@ pnpm dev
 
 > 注意：
 >
-> 开发 web 页面时，如果出现 getCloudflareContext 报错，需要先注释掉 wrangler.json 中 workflows 相关配置。本地运行工作流时，则需要恢复该配置
->
-> 本地运行工作流时，edge tts 转换音频可能并不会执行，会卡住，它依赖于 Cloudflare Workers 环境。建议直接注释该部分代码进行 mock 数据
+> - 本地运行工作流时，Edge TTS 转换音频可能会卡住。建议直接注释该部分代码进行调试。
+> - 由于合并音频需要使用 CloudFlare 的浏览器端呈现，不支持本地开发，需要远程调试。 可以使用 `npm run test` 进行测试。
 
 ## 部署
 
 项目使用 Cloudflare Workers 部署:
 
-1. 创建 R2 文件存储桶, 绑定域名后，修改 `NEXT_STATIC_HOST` 变量。
+1. 创建 R2 文件存储桶, 绑定域名后，修改 `NEXT_STATIC_HOST` 和 `HACKER_NEWS_R2_BUCKET_URL` 变量。
 2. 创建 KV 存储空间
 3. 修改 `wrangler.json` 中 KV 和 R2 的值
 4. 使用 `wrangler` 脚手架配置线上环境的环境变量:
 
 ```bash
-wrangler secret put OPENAI_API_KEY
-wrangler secret put OPENAI_BASE_URL
-wrangler secret put OPENAI_MODEL
+# 更新 Worker 的私有变量
+wrangler secret put --cwd worker HACKER_NEWS_WORKER_URL # 绑定域名后，修改为绑定域名
+wrangler secret put --cwd worker HACKER_NEWS_R2_BUCKET_URL
+wrangler secret put --cwd worker OPENAI_API_KEY
+wrangler secret put --cwd worker OPENAI_BASE_URL
+wrangler secret put --cwd worker OPENAI_MODEL
+
+# 更新 Web 程序的私有变量
 wrangler secret put NEXT_STATIC_HOST # 绑定域名后，修改为绑定域名
-wrangler secret put NEXTJS_ENV # production
 ```
 
 ```bash
-# 记得恢复注释：wrangler.json中的 workflows 相关配置
+# 记得恢复注释：wrangler.json 中的 workflows 相关配置
+pnpm deploy:worker
 pnpm deploy
 ```
 

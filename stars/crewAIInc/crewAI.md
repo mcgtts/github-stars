@@ -1,6 +1,6 @@
 ---
 project: crewAI
-stars: 29958
+stars: 30307
 description: |-
     Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 url: https://github.com/crewAIInc/crewAI
@@ -265,10 +265,14 @@ reporting_task:
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai_tools import SerperDevTool
+from crewai.agents.agent_builder.base_agent import BaseAgent
+from typing import List
 
 @CrewBase
 class LatestAiDevelopmentCrew():
 	"""LatestAiDevelopment crew"""
+	agents: List[BaseAgent]
+	tasks: List[Task]
 
 	@agent
 	def researcher(self) -> Agent:

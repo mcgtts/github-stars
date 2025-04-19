@@ -1,6 +1,6 @@
 ---
 project: aliyun-oss-wordpress
-stars: 113
+stars: 114
 description: |-
     使用阿里云对象存储 OSS 作为附件存储空间的WordPress插件。QQ交流群：887595381
 url: https://github.com/sy-records/aliyun-oss-wordpress

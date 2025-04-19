@@ -1,6 +1,6 @@
 ---
 project: Planet
-stars: 1505
+stars: 1510
 description: |-
     Build and host decentralized blogs and websites on your Mac
 url: https://github.com/Planetable/Planet

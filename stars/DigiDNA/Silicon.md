@@ -1,6 +1,6 @@
 ---
 project: Silicon
-stars: 799
+stars: 801
 description: |-
     null
 url: https://github.com/DigiDNA/Silicon

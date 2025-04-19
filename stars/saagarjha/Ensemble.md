@@ -1,6 +1,6 @@
 ---
 project: Ensemble
-stars: 863
+stars: 864
 description: |-
     Cast Mac windows to visionOS
 url: https://github.com/saagarjha/Ensemble

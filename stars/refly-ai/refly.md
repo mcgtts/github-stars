@@ -1,6 +1,6 @@
 ---
 project: refly
-stars: 3513
+stars: 3590
 description: |-
     🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save,  contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
 url: https://github.com/refly-ai/refly
@@ -35,6 +35,8 @@ Refly is an open-source AI-native creation engine powered by 13+ leading AI mode
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img alt="TypeScript-version-icon" src="https://img.shields.io/badge/TypeScript-^5.3.3-blue"></a>
 </p>
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/refly-ai/refly)
 
 <p align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
@@ -244,4 +246,3 @@ To protect your privacy, please avoid posting security-related issues on GitHub.
 ## License
 
 This repository is licensed under the [ReflyAI Open Source License](./LICENSE), which is essentially the Apache 2.0 License with some additional restrictions.
-

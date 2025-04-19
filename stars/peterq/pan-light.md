@@ -1,6 +1,6 @@
 ---
 project: pan-light
-stars: 12126
+stars: 12127
 description: |-
     百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 url: https://github.com/peterq/pan-light

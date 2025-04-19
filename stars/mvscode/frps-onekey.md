@@ -1,6 +1,6 @@
 ---
 project: frps-onekey
-stars: 3319
+stars: 3328
 description: |-
     Frp server one-click configuration script. The script obtains the latest Frp version by default
 url: https://github.com/mvscode/frps-onekey

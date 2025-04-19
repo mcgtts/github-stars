@@ -1,6 +1,6 @@
 ---
 project: PaddleViT
-stars: 1230
+stars: 1231
 description: |-
     :robot: PaddleViT: State-of-the-art Visual Transformer and MLP Models for PaddlePaddle 2.0+
 url: https://github.com/BR-IDL/PaddleViT

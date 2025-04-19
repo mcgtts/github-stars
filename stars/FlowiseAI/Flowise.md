@@ -1,6 +1,6 @@
 ---
 project: Flowise
-stars: 37139
+stars: 37429
 description: |-
     Drag & drop UI to build your customized LLM flow
 url: https://github.com/FlowiseAI/Flowise
@@ -190,9 +190,9 @@ Deploy Flowise self-hosted in your existing infrastructure, we support various [
 
         [![Deploy on Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/flowiseai)
 
-    -   [Sealos](https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dflowise)
+    -   [Sealos](https://template.sealos.io/deploy?templateName=flowise)
 
-        [![](https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg)](https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dflowise)
+        [![Deploy on Sealos](https://sealos.io/Deploy-on-Sealos.svg)](https://template.sealos.io/deploy?templateName=flowise)
 
     -   [RepoCloud](https://repocloud.io/details/?app_id=29)
 

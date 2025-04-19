@@ -1,6 +1,6 @@
 ---
 project: xd-to-flutter-plugin
-stars: 951
+stars: 952
 description: |-
     Generate assets from XD for use in an existing Flutter project
 url: https://github.com/AdobeXD/xd-to-flutter-plugin

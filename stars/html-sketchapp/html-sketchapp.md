@@ -1,6 +1,6 @@
 ---
 project: html-sketchapp
-stars: 1852
+stars: 1853
 description: |-
     HTML to Sketch export solution
 url: https://github.com/html-sketchapp/html-sketchapp

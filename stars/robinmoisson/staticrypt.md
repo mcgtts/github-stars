@@ -1,6 +1,6 @@
 ---
 project: staticrypt
-stars: 7315
+stars: 7333
 description: |-
     Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 url: https://github.com/robinmoisson/staticrypt

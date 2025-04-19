@@ -1,6 +1,6 @@
 ---
 project: etherpad-lite
-stars: 17322
+stars: 17347
 description: |-
     Etherpad: A modern really-real-time collaborative document editor.
 url: https://github.com/ether/etherpad-lite
@@ -98,7 +98,7 @@ services:
     # ports:
     #   - "5432:5432"
     volumes:
-      - postgres_data:/var/lib/postgresql/data/pgdata
+      - postgres_data:/var/lib/postgresql/data
 
 volumes:
   postgres_data:
@@ -197,7 +197,7 @@ git -P tag --list "v*" --merged
 ```
 4. Select the version
 ```sh
-git checkout v2.2.5 
+git checkout v2.2.5
 git switch -c v2.2.5
 ```
 5. Upgrade Etherpad

@@ -1,6 +1,6 @@
 ---
 project: m_adr_qapm_open_source
-stars: 10
+stars: 11
 description: |-
     null
 url: https://github.com/qunarcorp/m_adr_qapm_open_source

@@ -1,6 +1,6 @@
 ---
 project: Automate-Sketch
-stars: 937
+stars: 936
 description: |-
     Make your workflow more efficient.
 url: https://github.com/Ashung/Automate-Sketch

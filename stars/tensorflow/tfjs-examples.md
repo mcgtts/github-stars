@@ -1,6 +1,6 @@
 ---
 project: tfjs-examples
-stars: 6685
+stars: 6688
 description: |-
     Examples built with TensorFlow.js
 url: https://github.com/tensorflow/tfjs-examples

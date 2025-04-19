@@ -1,6 +1,6 @@
 ---
 project: react-native-macos
-stars: 3755
+stars: 3758
 description: |-
     A framework for building native macOS apps with React.
 url: https://github.com/microsoft/react-native-macos

@@ -1,6 +1,6 @@
 ---
 project: ora
-stars: 9304
+stars: 9314
 description: |-
     Elegant terminal spinner
 url: https://github.com/sindresorhus/ora

@@ -1,6 +1,6 @@
 ---
 project: itchatmp
-stars: 1583
+stars: 1584
 description: |-
     A complete and graceful API for wechat mp. 完备优雅的微信公众号接口，原生支持同步、协程使用。 
 url: https://github.com/littlecodersh/itchatmp

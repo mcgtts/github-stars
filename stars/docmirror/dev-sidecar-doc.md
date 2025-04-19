@@ -1,6 +1,6 @@
 ---
 project: dev-sidecar-doc
-stars: 128
+stars: 129
 description: |-
     null
 url: https://github.com/docmirror/dev-sidecar-doc

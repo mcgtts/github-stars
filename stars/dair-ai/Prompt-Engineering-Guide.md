@@ -1,6 +1,6 @@
 ---
 project: Prompt-Engineering-Guide
-stars: 54931
+stars: 55188
 description: |-
     🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 url: https://github.com/dair-ai/Prompt-Engineering-Guide

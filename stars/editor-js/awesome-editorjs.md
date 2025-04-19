@@ -1,6 +1,6 @@
 ---
 project: awesome-editorjs
-stars: 2470
+stars: 2481
 description: |-
     🤩 A curated list of awesome Editor.js tools, libraries and resources.
 url: https://github.com/editor-js/awesome-editorjs

@@ -1,6 +1,6 @@
 ---
 project: fig2sketch
-stars: 128
+stars: 130
 description: |-
     fig2sketch is a command line tool that converts `.fig` files into Sketch design documents (`.sketch`), which can then be opened with Sketch applications.
 url: https://github.com/sketch-hq/fig2sketch

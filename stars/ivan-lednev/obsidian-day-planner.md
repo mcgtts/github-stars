@@ -1,6 +1,6 @@
 ---
 project: obsidian-day-planner
-stars: 2304
+stars: 2313
 description: |-
     An Obsidian plugin for day planning with a clean UI and a simple task format
 url: https://github.com/ivan-lednev/obsidian-day-planner
