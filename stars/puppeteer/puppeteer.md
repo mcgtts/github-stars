@@ -1,6 +1,6 @@
 ---
 project: puppeteer
-stars: 90422
+stars: 90487
 description: |-
     JavaScript API for Chrome and Firefox
 url: https://github.com/puppeteer/puppeteer
@@ -43,8 +43,8 @@ await page.goto('https://developer.chrome.com/');
 // Set screen size.
 await page.setViewport({width: 1080, height: 1024});
 
-// Type into search box.
-await page.locator('.devsite-search-field').fill('automate beyond recorder');
+// Type into search box using accessible input name.
+await page.locator('aria/Search').fill('automate beyond recorder');
 
 // Wait and click on first result.
 await page.locator('.devsite-result-item-link').click();

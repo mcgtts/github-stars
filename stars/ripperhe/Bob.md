@@ -1,6 +1,6 @@
 ---
 project: Bob
-stars: 9255
+stars: 9268
 description: |-
     Bob 是一款 macOS 平台的翻译和 OCR 软件。
 url: https://github.com/ripperhe/Bob

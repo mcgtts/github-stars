@@ -1,6 +1,6 @@
 ---
 project: crawlab
-stars: 11719
+stars: 11726
 description: |-
     Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 url: https://github.com/crawlab-team/crawlab

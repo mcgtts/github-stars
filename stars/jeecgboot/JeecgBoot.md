@@ -1,6 +1,6 @@
 ---
 project: JeecgBoot
-stars: 42335
+stars: 42480
 description: |-
     🔥一款基于AIGC和低代码引擎的AI低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；
 url: https://github.com/jeecgboot/JeecgBoot
@@ -49,7 +49,7 @@ JeecgBoot 提供了一系列 `低代码能力`，实现`真正的零代码`在�
 
 适用项目
 -----------------------------------
-JeecgBoot AI低代码平台，可以应用在任何J2EE项目的开发中，支持信创国产化（默认适配达梦和人大金仓）。尤其适合SAAS项目、企业信息管理系统（MIS）、内部办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能手工Merge的开发方式，可以显著提高开发效率70%以上，极大降低开发成本。
+JeecgBoot AI低代码平台，可以应用在任何J2EE项目的开发中，支持信创国产化。尤其适合SAAS项目、企业信息管理系统（MIS）、内部办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能手工Merge的开发方式，可以显著提高开发效率70%以上，极大降低开发成本。
 又是一个全栈式 AI 开发平台，快速帮助企业构建和部署个性化的 AI 应用。
 
 
@@ -113,6 +113,11 @@ JeecgBoot 平台的AIGC功能模块，是一套类似`Dify`的`AIGC应用开发�
 [![](https://jeecgos.oss-cn-beijing.aliyuncs.com/files/jeecg_aivideo.png)](https://www.bilibili.com/video/BV1zmd7YFE4w)
 
 
+##### 在线体验
+
+- JeecgBoot演示：  https://boot3.jeecg.com
+- 敲敲云在线搭建AI知识库：https://app.qiaoqiaoyun.com
+
 ##### Dify `VS` JEECG AI
 
 > JEECG AI与Dify相比，在多个方面展现出显著的优势，特别是在文档处理、格式和图片保持方面。以下是一些具体的优点：
@@ -121,7 +126,7 @@ JeecgBoot 平台的AIGC功能模块，是一套类似`Dify`的`AIGC应用开发�
 > - 对话回复格式美观：
 > 在对话过程中，JEECG AI能够保持回复内容的原格式，也不丢失图片，使得输出的文章更加美观，不会出现格式错乱的情况，还支持图片的渲染。
 > - PDF文档导入与格式转换：
-> JEECG AI在处理PDF文档时，能够更好地保持原始格式和图片，确保转换后的内容与原始文档一致。这哥功能在许多AI产品中表现不佳，而JEECG AI在这方面做出了显著的优化
+> JEECG AI在处理PDF文档时，能够更好地保持原始格式和图片，确保转换后的内容与原始文档一致。这个功能在许多AI产品中表现不佳，而JEECG AI在这方面做出了显著的优化
 
 ##### 功能大模块
 

@@ -1,6 +1,6 @@
 ---
 project: TomatoBar
-stars: 2610
+stars: 2627
 description: |-
     🍅 World's neatest Pomodoro timer for macOS menu bar
 url: https://github.com/ivoronin/TomatoBar

@@ -1,6 +1,6 @@
 ---
 project: Sketch-Find-And-Replace
-stars: 713
+stars: 712
 description: |-
     Sketch plugin to do a find and replace on text within layers
 url: https://github.com/thierryc/Sketch-Find-And-Replace

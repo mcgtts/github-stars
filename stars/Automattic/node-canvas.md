@@ -1,6 +1,6 @@
 ---
 project: node-canvas
-stars: 10422
+stars: 10430
 description: |-
     Node canvas is a Cairo backed Canvas implementation for NodeJS.
 url: https://github.com/Automattic/node-canvas

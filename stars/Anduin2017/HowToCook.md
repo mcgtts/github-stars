@@ -1,6 +1,6 @@
 ---
 project: HowToCook
-stars: 77602
+stars: 80923
 description: |-
     程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 url: https://github.com/Anduin2017/HowToCook
@@ -104,6 +104,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [上汤娃娃菜](dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md)
 - [手撕包菜](dishes/vegetable_dish/手撕包菜/手撕包菜.md)
 - [水油焖蔬菜](dishes/vegetable_dish/水油焖蔬菜.md)
+- [松仁玉米](dishes/vegetable_dish/松仁玉米.md)
 - [素炒豆角](dishes/vegetable_dish/素炒豆角.md)
 - [酸辣土豆丝](dishes/vegetable_dish/酸辣土豆丝.md)
 - [糖拌西红柿](dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
@@ -116,9 +117,11 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 ### 荤菜
 
+- [巴基斯坦牛肉咖喱](dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md)
 - [白菜猪肉炖粉条](dishes/meat_dish/白菜猪肉炖粉条.md)
 - [带把肘子](dishes/meat_dish/带把肘子.md)
 - [冬瓜酿肉](dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md)
+- [豆豉鲮鱼油麦菜](dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md)
 - [番茄红酱](dishes/meat_dish/番茄红酱.md)
 - [粉蒸肉](dishes/meat_dish/粉蒸肉.md)
 - [干煸仔鸡](dishes/meat_dish/干煸仔鸡/干煸仔鸡.md)
@@ -166,6 +169,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [啤酒鸭](dishes/meat_dish/啤酒鸭/啤酒鸭.md)
 - [黔式腊肠娃娃菜](dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md)
 - [青椒土豆炒肉](dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md)
+- [清蒸鳜鱼](dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md)
 - [肉饼炖蛋](dishes/meat_dish/肉饼炖蛋.md)
 - [杀猪菜](dishes/meat_dish/杀猪菜.md)
 - [山西过油肉](dishes/meat_dish/山西过油肉.md)
@@ -285,6 +289,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [老友猪肉粉](dishes/staple/老友猪肉粉/老友猪肉粉.md)
 - [烙饼](dishes/staple/烙饼/烙饼.md)
 - [凉粉](dishes/staple/凉粉/凉粉.md)
+- [螺蛳粉](dishes/staple/螺蛳粉.md)
 - [麻辣减脂荞麦面](dishes/staple/麻辣减脂荞麦面.md)
 - [麻油拌面](dishes/staple/麻油拌面.md)
 - [电饭煲蒸米饭](dishes/staple/米饭/电饭煲蒸米饭.md)
@@ -404,9 +409,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [高级专业术语](tips/advanced/高级专业术语.md)
 - [油温判断技巧](tips/advanced/油温判断技巧.md)
 
-## 鸣谢
+## 衍生作品推荐
 
-对这份菜谱的下列作者表示感谢！
-
-[![contributors](https://contrib.rocks/image?repo=Anduin2017/HowToCook&max=999&column=20)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
+- [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
 

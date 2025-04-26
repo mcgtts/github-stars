@@ -1,6 +1,6 @@
 ---
 project: CRBoxInputView
-stars: 995
+stars: 996
 description: |-
     Verify code input view. Support security type for password.短信验证码输入框，支持密文模式
 url: https://github.com/CRAnimation/CRBoxInputView

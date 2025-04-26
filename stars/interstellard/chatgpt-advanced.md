@@ -1,6 +1,6 @@
 ---
 project: chatgpt-advanced
-stars: 6494
+stars: 6491
 description: |-
     WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 url: https://github.com/interstellard/chatgpt-advanced

@@ -1,6 +1,6 @@
 ---
 project: SPAlertController
-stars: 434
+stars: 435
 description: |-
     提醒对话框，风格和微信原生几乎零误差。简书地址:
 url: https://github.com/SPStore/SPAlertController

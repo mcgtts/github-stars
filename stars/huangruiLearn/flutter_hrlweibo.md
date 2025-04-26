@@ -1,6 +1,6 @@
 ---
 project: flutter_hrlweibo
-stars: 2855
+stars: 2856
 description: |-
     Flutter仿微博客户端,  包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
 url: https://github.com/huangruiLearn/flutter_hrlweibo

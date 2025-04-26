@@ -1,6 +1,6 @@
 ---
 project: pua-lang
-stars: 3285
+stars: 3286
 description: |-
     a dialect of The Monkey Programming Language
 url: https://github.com/flaneur2020/pua-lang

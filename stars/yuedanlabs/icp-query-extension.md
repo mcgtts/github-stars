@@ -1,6 +1,6 @@
 ---
 project: icp-query-extension
-stars: 216
+stars: 218
 description: |-
     Browser Extension for ICP、DNS、Whois & GEO Query
 url: https://github.com/yuedanlabs/icp-query-extension

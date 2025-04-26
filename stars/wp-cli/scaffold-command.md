@@ -1,6 +1,6 @@
 ---
 project: scaffold-command
-stars: 167
+stars: 168
 description: |-
     Generates code for post types, taxonomies, blocks, plugins, child themes, etc.
 url: https://github.com/wp-cli/scaffold-command

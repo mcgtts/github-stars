@@ -1,6 +1,6 @@
 ---
 project: yapi
-stars: 27558
+stars: 27568
 description: |-
     YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 url: https://github.com/YMFE/yapi

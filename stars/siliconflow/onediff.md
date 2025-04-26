@@ -1,6 +1,6 @@
 ---
 project: onediff
-stars: 1870
+stars: 1871
 description: |-
     OneDiff: An out-of-the-box acceleration library for diffusion models.
 url: https://github.com/siliconflow/onediff

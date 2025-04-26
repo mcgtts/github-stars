@@ -1,6 +1,6 @@
 ---
 project: react-native-sketch
-stars: 646
+stars: 645
 description: |-
     🎨 A React Native <Sketch /> component for touch-based drawing.
 url: https://github.com/jgrancher/react-native-sketch

@@ -1,6 +1,6 @@
 ---
 project: eliza
-stars: 15574
+stars: 15644
 description: |-
     Autonomous agents for everyone
 url: https://github.com/elizaOS/eliza

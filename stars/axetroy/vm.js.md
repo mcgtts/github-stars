@@ -1,6 +1,6 @@
 ---
 project: vm.js
-stars: 440
+stars: 441
 description: |-
     Javascript 解释器. Javascript Interpreter
 url: https://github.com/axetroy/vm.js

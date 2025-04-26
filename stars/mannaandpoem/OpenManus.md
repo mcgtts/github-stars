@@ -1,6 +1,6 @@
 ---
 project: OpenManus
-stars: 43825
+stars: 44662
 description: |-
     No fortress, purely open ground.  OpenManus is Coming.
 url: https://github.com/mannaandpoem/OpenManus

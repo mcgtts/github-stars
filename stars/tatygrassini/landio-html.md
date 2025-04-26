@@ -1,6 +1,6 @@
 ---
 project: landio-html
-stars: 802
+stars: 801
 description: |-
     Landio design (Sketch to HTML)
 url: https://github.com/tatygrassini/landio-html

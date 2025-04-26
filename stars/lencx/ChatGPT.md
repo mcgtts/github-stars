@@ -1,6 +1,6 @@
 ---
 project: ChatGPT
-stars: 53703
+stars: 53719
 description: |-
     🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 url: https://github.com/lencx/ChatGPT

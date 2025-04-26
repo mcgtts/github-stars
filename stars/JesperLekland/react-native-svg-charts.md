@@ -1,6 +1,6 @@
 ---
 project: react-native-svg-charts
-stars: 2379
+stars: 2378
 description: |-
     📈 One library to rule all charts for React Native 📊
 url: https://github.com/JesperLekland/react-native-svg-charts

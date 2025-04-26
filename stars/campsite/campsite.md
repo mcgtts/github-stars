@@ -1,6 +1,6 @@
 ---
 project: campsite
-stars: 4531
+stars: 4541
 description: |-
     The Campsite monorepo
 url: https://github.com/campsite/campsite

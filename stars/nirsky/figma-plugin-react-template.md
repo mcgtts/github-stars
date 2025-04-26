@@ -1,6 +1,6 @@
 ---
 project: figma-plugin-react-template
-stars: 469
+stars: 471
 description: |-
     Quickstart your Figma Plugin with this template and tooling.
 url: https://github.com/nirsky/figma-plugin-react-template

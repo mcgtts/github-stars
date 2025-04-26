@@ -1,6 +1,6 @@
 ---
 project: neshouse
-stars: 1299
+stars: 1300
 description: |-
     NESHouse.com —— An open source implementation of ClubHouse
 url: https://github.com/bestony/neshouse

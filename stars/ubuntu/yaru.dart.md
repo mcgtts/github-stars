@@ -1,6 +1,6 @@
 ---
 project: yaru.dart
-stars: 292
+stars: 295
 description: |-
     Ubuntu Yaru Flutter widgets and themes for building desktop and web applications
 url: https://github.com/ubuntu/yaru.dart

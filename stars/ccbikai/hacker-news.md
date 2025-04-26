@@ -1,6 +1,6 @@
 ---
 project: hacker-news
-stars: 1628
+stars: 1664
 description: |-
     一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 url: https://github.com/ccbikai/hacker-news
@@ -10,11 +10,13 @@ url: https://github.com/ccbikai/hacker-news
 
 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
----
-
 预览地址: <https://hacker-news.agi.li>
 
 订阅地址: <https://hacker-news.agi.li/rss.xml>
+
+![hacker-news](https://socialify.git.ci/ccbikai/hacker-news/image?description=1&forks=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Auto)
+
+---
 
 ## 主要特性
 
@@ -38,7 +40,7 @@ url: https://github.com/ccbikai/hacker-news
 
 1. 定时抓取 Hacker News 热门文章
 2. 使用 AI 生成中文摘要和播报文稿
-3. 通过 Edge TTS 转换为音频
+3. 通过 TTS 转换为音频, 感谢 [Minimax Audio](https://hailuoai.com/audio) 赞助 TTS 服务。
 4. 存储到 Cloudflare R2 和 KV
 5. 通过 RSS feed 和网页提供访问
 
@@ -61,7 +63,7 @@ NEXTJS_ENV=development
 NEXT_STATIC_HOST=http://localhost:3000/static
 
 # worker/.dev.vars
-WORKER_ENV=dev
+WORKER_ENV=development
 HACKER_NEWS_WORKER_URL=https://you-worker-url
 HACKER_NEWS_R2_BUCKET_URL=https://your-bucket-url
 OPENAI_API_KEY=your_api_key
@@ -118,6 +120,8 @@ pnpm deploy
 欢迎提交 Issue 和 Pull Request!
 
 ## 赞助
+
+- **[Minimax Audio](https://hailuoai.com/audio)**：让文字栩栩如“声”
 
 1. [在 Telegram 关注我](https://t.me/miantiao_me)
 2. [在 𝕏 上关注我](https://404.li/x)

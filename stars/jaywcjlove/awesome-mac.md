@@ -1,6 +1,6 @@
 ---
 project: awesome-mac
-stars: 82119
+stars: 82339
 description: |-
      Now we have become very big, Different from the original idea. Collect premium software in various categories.
 url: https://github.com/jaywcjlove/awesome-mac
@@ -365,7 +365,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Free and open-source app for hosts management & switching. [![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
 * [SYM](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
 * [TeXstudio](http://www.texstudio.org) - Integrated writing environment for creating LaTeX documents. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
-* [Timelane](http://timelane.tools) - Visually profile your asynchronous code. [![Open-Source Software][OSS Icon]](https://github.com/icanzilb/Timelane) ![Freeware][Freeware Icon]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN modeling platform.
 * [Woodpecker](http://www.woodpeck.cn) - View iOS app's Sandbox files, UserDefaults, Keychain items on a Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/woodpecker/id1333548463)

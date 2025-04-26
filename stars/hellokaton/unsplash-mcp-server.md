@@ -1,6 +1,6 @@
 ---
 project: unsplash-mcp-server
-stars: 113
+stars: 115
 description: |-
     🔎 A MCP server for Unsplash image search.
 url: https://github.com/hellokaton/unsplash-mcp-server

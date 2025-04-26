@@ -1,6 +1,6 @@
 ---
 project: vm2
-stars: 3906
+stars: 3909
 description: |-
     Advanced vm/sandbox for Node.js
 url: https://github.com/patriksimek/vm2

@@ -1,6 +1,6 @@
 ---
 project: ml5-library
-stars: 6542
+stars: 6545
 description: |-
     Friendly machine learning for the web! 🤖 
 url: https://github.com/ml5js/ml5-library

@@ -1,6 +1,6 @@
 ---
 project: adrenaline
-stars: 3789
+stars: 3788
 description: |-
     Chat with (and visualize) your codebase
 url: https://github.com/shobrook/adrenaline

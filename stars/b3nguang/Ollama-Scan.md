@@ -1,6 +1,6 @@
 ---
 project: Ollama-Scan
-stars: 240
+stars: 241
 description: |-
     助你实现Ollama自由，配合FOFA等搜索引擎体验更佳
 url: https://github.com/b3nguang/Ollama-Scan

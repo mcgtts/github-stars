@@ -1,6 +1,6 @@
 ---
 project: algorithm-visualizer
-stars: 47339
+stars: 47362
 description: |-
     :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 url: https://github.com/algorithm-visualizer/algorithm-visualizer

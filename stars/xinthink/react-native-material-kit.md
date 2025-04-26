@@ -1,6 +1,6 @@
 ---
 project: react-native-material-kit
-stars: 4835
+stars: 4834
 description: |-
     Bringing Material Design to React Native
 url: https://github.com/xinthink/react-native-material-kit

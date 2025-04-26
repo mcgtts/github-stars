@@ -1,6 +1,6 @@
 ---
 project: sketch-styles-generator
-stars: 530
+stars: 529
 description: |-
     Generate hundreds of Sketch Shared Styles in a matter of seconds.
 url: https://github.com/lucaorio/sketch-styles-generator

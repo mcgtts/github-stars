@@ -1,6 +1,6 @@
 ---
 project: wasmer
-stars: 19609
+stars: 19657
 description: |-
     🚀 Fast, secure, lightweight containers based on WebAssembly
 url: https://github.com/wasmerio/wasmer

@@ -1,6 +1,6 @@
 ---
 project: ant-design-mobile-rn
-stars: 3188
+stars: 3196
 description: |-
     Ant Design for React Native
 url: https://github.com/ant-design/ant-design-mobile-rn

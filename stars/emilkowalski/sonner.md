@@ -1,6 +1,6 @@
 ---
 project: sonner
-stars: 10154
+stars: 10187
 description: |-
     An opinionated toast component for React.
 url: https://github.com/emilkowalski/sonner

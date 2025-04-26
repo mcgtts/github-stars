@@ -1,6 +1,6 @@
 ---
 project: my-ebooks
-stars: 533
+stars: 534
 description: |-
     下载与收藏一些我已发布的电子书或编目过的文章
 url: https://github.com/aimingoo/my-ebooks

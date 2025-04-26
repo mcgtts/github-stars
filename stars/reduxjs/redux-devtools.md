@@ -1,6 +1,6 @@
 ---
 project: redux-devtools
-stars: 14175
+stars: 14178
 description: |-
     DevTools for Redux with hot reloading, action replay, and customizable UI
 url: https://github.com/reduxjs/redux-devtools
