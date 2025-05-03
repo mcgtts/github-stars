@@ -1,6 +1,6 @@
 ---
 project: catapult
-stars: 1945
+stars: 1946
 description: |-
     Deprecated Catapult GitHub. Please instead use http://crbug.com "Speed>Benchmarks" component for bugs and https://chromium.googlesource.com/catapult for downloading and editing source code..
 url: https://github.com/catapult-project/catapult

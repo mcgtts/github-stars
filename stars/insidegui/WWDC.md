@@ -1,6 +1,6 @@
 ---
 project: WWDC
-stars: 8675
+stars: 8677
 description: |-
     The unofficial WWDC app for macOS
 url: https://github.com/insidegui/WWDC

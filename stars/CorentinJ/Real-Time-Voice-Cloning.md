@@ -1,6 +1,6 @@
 ---
 project: Real-Time-Voice-Cloning
-stars: 54065
+stars: 54127
 description: |-
     Clone a voice in 5 seconds to generate arbitrary speech in real-time
 url: https://github.com/CorentinJ/Real-Time-Voice-Cloning

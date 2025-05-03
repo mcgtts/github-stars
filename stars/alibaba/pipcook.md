@@ -1,6 +1,6 @@
 ---
 project: pipcook
-stars: 2571
+stars: 2572
 description: |-
     Machine learning platform for Web developers
 url: https://github.com/alibaba/pipcook

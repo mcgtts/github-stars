@@ -1,6 +1,6 @@
 ---
 project: MMWormhole
-stars: 3938
+stars: 3936
 description: |-
     Message passing between iOS apps and extensions.
 url: https://github.com/mutualmobile/MMWormhole

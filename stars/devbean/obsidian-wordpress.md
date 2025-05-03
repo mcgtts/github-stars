@@ -1,6 +1,6 @@
 ---
 project: obsidian-wordpress
-stars: 169
+stars: 168
 description: |-
     An obsidian plugin for publishing docs to WordPress.
 url: https://github.com/devbean/obsidian-wordpress

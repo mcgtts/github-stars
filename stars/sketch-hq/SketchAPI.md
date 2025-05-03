@@ -1,6 +1,6 @@
 ---
 project: SketchAPI
-stars: 843
+stars: 844
 description: |-
     The JavaScript plugin library embedded in Sketch
 url: https://github.com/sketch-hq/SketchAPI

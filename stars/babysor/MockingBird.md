@@ -1,6 +1,6 @@
 ---
 project: MockingBird
-stars: 36180
+stars: 36203
 description: |-
     🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 url: https://github.com/babysor/MockingBird

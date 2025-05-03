@@ -1,6 +1,6 @@
 ---
 project: nodebestpractices
-stars: 102430
+stars: 102483
 description: |-
     :white_check_mark:  The Node.js best practices list (July 2024)
 url: https://github.com/goldbergyoni/nodebestpractices

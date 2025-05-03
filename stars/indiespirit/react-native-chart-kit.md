@@ -1,6 +1,6 @@
 ---
 project: react-native-chart-kit
-stars: 2973
+stars: 2974
 description: |-
     📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
 url: https://github.com/indiespirit/react-native-chart-kit

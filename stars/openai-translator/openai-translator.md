@@ -1,6 +1,6 @@
 ---
 project: openai-translator
-stars: 24373
+stars: 24386
 description: |-
     基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 url: https://github.com/openai-translator/openai-translator

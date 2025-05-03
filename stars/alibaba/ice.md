@@ -1,6 +1,6 @@
 ---
 project: ice
-stars: 18517
+stars: 18516
 description: |-
     🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 url: https://github.com/alibaba/ice

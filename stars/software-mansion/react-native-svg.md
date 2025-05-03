@@ -1,6 +1,6 @@
 ---
 project: react-native-svg
-stars: 7701
+stars: 7713
 description: |-
     SVG library for React Native, React Native Web, and plain React web projects.
 url: https://github.com/software-mansion/react-native-svg

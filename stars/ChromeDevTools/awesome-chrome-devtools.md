@@ -1,6 +1,6 @@
 ---
 project: awesome-chrome-devtools
-stars: 6331
+stars: 6346
 description: |-
     Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 url: https://github.com/ChromeDevTools/awesome-chrome-devtools

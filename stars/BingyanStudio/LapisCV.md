@@ -1,6 +1,6 @@
 ---
 project: LapisCV
-stars: 3377
+stars: 3396
 description: |-
     📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 url: https://github.com/BingyanStudio/LapisCV

@@ -1,6 +1,6 @@
 ---
 project: SVG-to-SwiftUI
-stars: 1020
+stars: 1021
 description: |-
     Convert SVG to SwiftUI's Shape
 url: https://github.com/bring-shrubbery/SVG-to-SwiftUI

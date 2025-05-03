@@ -1,6 +1,6 @@
 ---
 project: UTM
-stars: 29059
+stars: 29163
 description: |-
     Virtual machines for iOS and macOS
 url: https://github.com/utmapp/UTM

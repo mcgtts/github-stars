@@ -1,6 +1,6 @@
 ---
 project: html2sketch
-stars: 171
+stars: 172
 description: |-
     parser HTML to Sketch JSON
 url: https://github.com/ant-design/html2sketch

@@ -1,6 +1,6 @@
 ---
 project: Miaow
-stars: 2498
+stars: 2497
 description: |-
     A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
 url: https://github.com/weixin/Miaow

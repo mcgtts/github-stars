@@ -1,6 +1,6 @@
 ---
 project: Lona
-stars: 7536
+stars: 7538
 description: |-
     A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 url: https://github.com/Lona/Lona

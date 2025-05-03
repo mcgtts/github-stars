@@ -1,6 +1,6 @@
 ---
 project: Whisper
-stars: 9205
+stars: 9231
 description: |-
     High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
 url: https://github.com/Const-me/Whisper

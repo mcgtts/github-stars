@@ -1,6 +1,6 @@
 ---
 project: Screenshot-to-code
-stars: 16526
+stars: 16523
 description: |-
     A neural network that transforms a design mock-up into a static website.
 url: https://github.com/emilwallner/Screenshot-to-code

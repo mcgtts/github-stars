@@ -1,6 +1,6 @@
 ---
 project: node-semver
-stars: 5237
+stars: 5241
 description: |-
     The semver parser for node (the one npm uses)
 url: https://github.com/npm/node-semver

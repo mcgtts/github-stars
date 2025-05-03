@@ -1,6 +1,6 @@
 ---
 project: hacker-news
-stars: 1664
+stars: 1681
 description: |-
     一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 url: https://github.com/ccbikai/hacker-news
@@ -9,6 +9,8 @@ url: https://github.com/ccbikai/hacker-news
 # Hacker News 每日播报
 
 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+
+[<img src="https://devin.ai/assets/deepwiki-badge.png" alt="DeepWiki" height="20"/>](https://deepwiki.com/ccbikai/hacker-news)
 
 预览地址: <https://hacker-news.agi.li>
 

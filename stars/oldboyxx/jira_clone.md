@@ -1,6 +1,6 @@
 ---
 project: jira_clone
-stars: 10874
+stars: 10890
 description: |-
     A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 url: https://github.com/oldboyxx/jira_clone

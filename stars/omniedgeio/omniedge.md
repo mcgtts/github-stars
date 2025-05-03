@@ -1,6 +1,6 @@
 ---
 project: omniedge
-stars: 880
+stars: 879
 description: |-
     Bringing intranet on the internet with Zero-Config Mesh VPNs.
 url: https://github.com/omniedgeio/omniedge

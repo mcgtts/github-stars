@@ -1,6 +1,6 @@
 ---
 project: react-native-clean-project
-stars: 1236
+stars: 1237
 description: |-
     Automating the clean up of a React Native project
 url: https://github.com/pmadruga/react-native-clean-project

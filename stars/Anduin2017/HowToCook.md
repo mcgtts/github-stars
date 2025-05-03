@@ -1,6 +1,6 @@
 ---
 project: HowToCook
-stars: 80923
+stars: 82383
 description: |-
     程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 url: https://github.com/Anduin2017/HowToCook
@@ -107,6 +107,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [松仁玉米](dishes/vegetable_dish/松仁玉米.md)
 - [素炒豆角](dishes/vegetable_dish/素炒豆角.md)
 - [酸辣土豆丝](dishes/vegetable_dish/酸辣土豆丝.md)
+- [蒜蓉空心菜](dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md)
 - [糖拌西红柿](dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md)
 - [莴笋叶煎饼](dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md)
 - [西红柿炒鸡蛋](dishes/vegetable_dish/西红柿炒鸡蛋.md)
@@ -306,6 +307,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [微波炉腊肠煲仔饭](dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 - [西红柿鸡蛋挂面](dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md)
 - [扬州炒饭](dishes/staple/扬州炒饭/扬州炒饭.md)
+- [意式肉酱面](dishes/staple/意式肉酱面/意式肉酱面.md)
 - [炸酱面](dishes/staple/炸酱面.md)
 - [蒸卤面](dishes/staple/蒸卤面.md)
 - [中式馅饼](dishes/staple/中式馅饼/中式馅饼.md)
@@ -345,6 +347,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [羊肉汤](dishes/soup/羊肉汤/羊肉汤.md)
 - [银耳莲子粥](dishes/soup/银耳莲子粥/银耳莲子粥.md)
 - [玉米排骨汤](dishes/soup/玉米排骨汤/玉米排骨汤.md)
+- [朱雀汤](dishes/soup/朱雀汤/朱雀汤.md)
 - [紫菜蛋花汤](dishes/soup/紫菜蛋花汤.md)
 
 ### 饮料
@@ -412,4 +415,5 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 ## 衍生作品推荐
 
 - [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
+- [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
 

@@ -1,6 +1,6 @@
 ---
 project: x-render
-stars: 7276
+stars: 7278
 description: |-
     🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 url: https://github.com/alibaba/x-render

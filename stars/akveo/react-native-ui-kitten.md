@@ -1,6 +1,6 @@
 ---
 project: react-native-ui-kitten
-stars: 10497
+stars: 10507
 description: |-
     :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 url: https://github.com/akveo/react-native-ui-kitten

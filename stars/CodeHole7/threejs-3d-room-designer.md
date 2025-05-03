@@ -1,6 +1,6 @@
 ---
 project: threejs-3d-room-designer
-stars: 280
+stars: 281
 description: |-
     React.js + Three.js 3d room planner & product configurator(bundled version)
 url: https://github.com/CodeHole7/threejs-3d-room-designer

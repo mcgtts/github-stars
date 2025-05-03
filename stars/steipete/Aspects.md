@@ -1,6 +1,6 @@
 ---
 project: Aspects
-stars: 8408
+stars: 8406
 description: |-
     Delightful, simple library for aspect oriented programming in Objective-C and Swift.
 url: https://github.com/steipete/Aspects

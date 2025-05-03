@@ -1,6 +1,6 @@
 ---
 project: vuetify-jsonschema-form
-stars: 561
+stars: 562
 description: |-
     Create beautiful and low-effort forms that output valid data. Published on npm as @koumoul/vjsf.
 url: https://github.com/koumoul-dev/vuetify-jsonschema-form
