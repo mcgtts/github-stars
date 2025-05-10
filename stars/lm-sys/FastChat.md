@@ -1,6 +1,6 @@
 ---
 project: FastChat
-stars: 38505
+stars: 38543
 description: |-
     An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 url: https://github.com/lm-sys/FastChat

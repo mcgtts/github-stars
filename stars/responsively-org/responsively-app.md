@@ -1,6 +1,6 @@
 ---
 project: responsively-app
-stars: 23339
+stars: 23360
 description: |-
     A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 url: https://github.com/responsively-org/responsively-app

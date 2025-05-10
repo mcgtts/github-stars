@@ -1,12 +1,16 @@
 ---
 project: markdownify-mcp
-stars: 1514
+stars: 1552
 description: |-
     A Model Context Protocol server for converting almost anything to Markdown
 url: https://github.com/zcaceres/markdownify-mcp
 ---
 
 # Markdownify MCP Server
+
+> Help! I need someone with a Windows computer to help me add support for Markdownify-MCP on Windows. PRs exist but I cannot test them. Post [here](https://github.com/zcaceres/markdownify-mcp/issues/18) if interested.
+
+![markdownify mcp logo](logo.jpg)
 
 Markdownify is a Model Context Protocol (MCP) server that converts various file types and web content to Markdown format. It provides a set of tools to transform PDFs, images, audio files, web pages, and more into easily readable and shareable Markdown text.
 
@@ -84,7 +88,9 @@ To integrate this server with a desktop app, add the following to your app's ser
 - `docx-to-markdown`: Convert DOCX files to Markdown
 - `xlsx-to-markdown`: Convert XLSX files to Markdown
 - `pptx-to-markdown`: Convert PPTX files to Markdown
-- `get-markdown-file`: Retrieve an existing Markdown file
+- `get-markdown-file`: Retrieve an existing Markdown file. File extension must end with: *.md, *.markdown.
+  
+  OPTIONAL: set `MD_SHARE_DIR` env var to restrict the directory from which files can be retrieved, e.g. `MD_SHARE_DIR=[SOME_PATH] pnpm run start` 
 
 ## Contributing
 

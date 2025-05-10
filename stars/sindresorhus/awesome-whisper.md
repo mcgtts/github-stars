@@ -1,6 +1,6 @@
 ---
 project: awesome-whisper
-stars: 1650
+stars: 1662
 description: |-
     🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 url: https://github.com/sindresorhus/awesome-whisper

@@ -1,6 +1,6 @@
 ---
 project: OpenManus
-stars: 45081
+stars: 45383
 description: |-
     No fortress, purely open ground.  OpenManus is Coming.
 url: https://github.com/FoundationAgents/OpenManus

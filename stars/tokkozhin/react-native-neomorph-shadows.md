@@ -1,6 +1,6 @@
 ---
 project: react-native-neomorph-shadows
-stars: 813
+stars: 814
 description: |-
     Shadows and neumorphism/neomorphism for iOS & Android (like iOS).
 url: https://github.com/tokkozhin/react-native-neomorph-shadows

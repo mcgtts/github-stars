@@ -1,6 +1,6 @@
 ---
 project: markdown-nice
-stars: 4363
+stars: 4372
 description: |-
     支持主题设计的 Markdown 编辑器，让排版变 Nice
 url: https://github.com/mdnice/markdown-nice

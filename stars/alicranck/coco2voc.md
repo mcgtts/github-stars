@@ -1,6 +1,6 @@
 ---
 project: coco2voc
-stars: 96
+stars: 97
 description: |-
     A tool for converting COCO style annotations to PASCAL VOC style segmentations
 url: https://github.com/alicranck/coco2voc

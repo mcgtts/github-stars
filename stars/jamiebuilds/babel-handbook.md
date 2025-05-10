@@ -1,6 +1,6 @@
 ---
 project: babel-handbook
-stars: 12094
+stars: 12097
 description: |-
     :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 url: https://github.com/jamiebuilds/babel-handbook

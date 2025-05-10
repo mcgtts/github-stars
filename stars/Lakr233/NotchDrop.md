@@ -1,6 +1,6 @@
 ---
 project: NotchDrop
-stars: 1722
+stars: 1723
 description: |-
     Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 url: https://github.com/Lakr233/NotchDrop

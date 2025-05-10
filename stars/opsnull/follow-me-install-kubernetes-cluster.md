@@ -1,6 +1,6 @@
 ---
 project: follow-me-install-kubernetes-cluster
-stars: 7504
+stars: 7506
 description: |-
     和我一步步部署 kubernetes 集群
 url: https://github.com/opsnull/follow-me-install-kubernetes-cluster

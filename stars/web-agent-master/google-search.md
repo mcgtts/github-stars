@@ -1,6 +1,6 @@
 ---
 project: google-search
-stars: 230
+stars: 236
 description: |-
     A Playwright-based Node.js tool that bypasses search engine anti-scraping mechanisms to execute Google searches. Local alternative to SERP APIs with MCP server integration.
 url: https://github.com/web-agent-master/google-search

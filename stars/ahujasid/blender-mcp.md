@@ -1,6 +1,6 @@
 ---
 project: blender-mcp
-stars: 10723
+stars: 10990
 description: |-
     null
 url: https://github.com/ahujasid/blender-mcp

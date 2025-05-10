@@ -1,6 +1,6 @@
 ---
 project: awesome-nostr
-stars: 2714
+stars: 2717
 description: |-
     nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things 
 url: https://github.com/aljazceru/awesome-nostr

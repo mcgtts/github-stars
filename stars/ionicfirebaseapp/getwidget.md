@@ -1,6 +1,6 @@
 ---
 project: getwidget
-stars: 4652
+stars: 4655
 description: |-
     Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app. 
 url: https://github.com/ionicfirebaseapp/getwidget

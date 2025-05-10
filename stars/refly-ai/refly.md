@@ -1,6 +1,6 @@
 ---
 project: refly
-stars: 3727
+stars: 3832
 description: |-
     🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save,  contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
 url: https://github.com/refly-ai/refly

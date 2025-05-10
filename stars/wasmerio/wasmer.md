@@ -1,6 +1,6 @@
 ---
 project: wasmer
-stars: 19691
+stars: 19699
 description: |-
     🚀 Fast, secure, lightweight containers based on WebAssembly
 url: https://github.com/wasmerio/wasmer
@@ -97,8 +97,11 @@ curl https://get.wasmer.io -sSfL | sh
 </details>
 
 > Note: You can also try Wasmer online in [wasmer.sh](https://wasmer.sh/)
-> 
+
 ### Quickstart
+
+> [!Tip]  
+> As part of our commitment to open source, we want to reward all GitHub users. In addition to the free tier, you can get up to $200 in [Wasmer Edge](https://wasmer.io/products/edge) credits for your open-source contributions - [Claim here](https://github.com/wasmerio/wasmer/discussions/5560).
 
 You can start by running
 [Cowsay](https://wasmer.io/syrusakbary/cowsay):

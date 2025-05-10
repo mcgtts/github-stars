@@ -1,6 +1,6 @@
 ---
 project: dev-sidecar
-stars: 17783
+stars: 17879
 description: |-
     开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 url: https://github.com/docmirror/dev-sidecar

@@ -1,6 +1,6 @@
 ---
 project: longbridge-terminal
-stars: 247
+stars: 256
 description: |-
     An experimental  terminal UI of Longbridge App.
 url: https://github.com/longbridge/longbridge-terminal

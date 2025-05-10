@@ -1,6 +1,6 @@
 ---
 project: fe-interview
-stars: 25845
+stars: 25866
 description: |-
     前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 url: https://github.com/haizlin/fe-interview
@@ -48,8 +48,8 @@ url: https://github.com/haizlin/fe-interview
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.04) —— 第2210天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery进行大型项目的模块化管理？](https://github.com/haizlin/fe-interview/issues/6182)  
+## :clock430: 今天的知识点   (2025.05.11) —— 第2217天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的枚举（Enum）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6189)  
  
   
 ### :camel: 历史题目
@@ -61,8 +61,8 @@ url: https://github.com/haizlin/fe-interview
     …………  
 
 
-- 第2209天 (2025.05.03)  
-    	 :one: [jQuery] [如何在jQuery中实现自定义的UI组件？](https://github.com/haizlin/fe-interview/issues/6181)  
+- 第2216天 (2025.05.10)  
+    	 :one: [TypeScript] [解释TypeScript中的接口（Interface）和类型别名（Type Alias）](https://github.com/haizlin/fe-interview/issues/6188)  
  
 	
 - **[查看全部](category/history.md)**

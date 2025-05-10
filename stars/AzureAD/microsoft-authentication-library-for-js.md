@@ -1,6 +1,6 @@
 ---
 project: microsoft-authentication-library-for-js
-stars: 3848
+stars: 3850
 description: |-
     Microsoft Authentication Library (MSAL) for JS
 url: https://github.com/AzureAD/microsoft-authentication-library-for-js

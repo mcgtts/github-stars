@@ -1,6 +1,6 @@
 ---
 project: puppeteer
-stars: 90559
+stars: 90616
 description: |-
     JavaScript API for Chrome and Firefox
 url: https://github.com/puppeteer/puppeteer

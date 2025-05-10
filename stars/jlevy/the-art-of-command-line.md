@@ -1,6 +1,6 @@
 ---
 project: the-art-of-command-line
-stars: 155824
+stars: 155912
 description: |-
     Master the command line, in one page
 url: https://github.com/jlevy/the-art-of-command-line

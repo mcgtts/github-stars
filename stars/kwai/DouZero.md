@@ -1,6 +1,6 @@
 ---
 project: DouZero
-stars: 4301
+stars: 4313
 description: |-
     [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 url: https://github.com/kwai/DouZero

@@ -1,6 +1,6 @@
 ---
 project: PaddleGAN
-stars: 8022
+stars: 8025
 description: |-
     PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 url: https://github.com/PaddlePaddle/PaddleGAN

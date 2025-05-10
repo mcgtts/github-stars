@@ -1,6 +1,6 @@
 ---
 project: strapi-starter-next-blog
-stars: 384
+stars: 385
 description: |-
     Strapi Starter Next Blog
 url: https://github.com/strapi/strapi-starter-next-blog

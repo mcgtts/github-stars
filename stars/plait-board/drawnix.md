@@ -1,6 +1,6 @@
 ---
 project: drawnix
-stars: 1563
+stars: 1602
 description: |-
     开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 url: https://github.com/plait-board/drawnix
@@ -49,7 +49,7 @@ url: https://github.com/plait-board/drawnix
 - 🎨 主题模式
 - 📱 移动设备适配
 - 📈 支持 mermaid 语法转流程图
-- ✨ 支持 Markdown 文本转思维导图（新支持 🔥🔥🔥）
+- ✨ 支持 markdown 文本转思维导图（新支持 🔥🔥🔥）
 
 
 ## 关于名称

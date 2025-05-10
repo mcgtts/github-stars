@@ -1,6 +1,6 @@
 ---
 project: translator
-stars: 1283
+stars: 1284
 description: |-
     简单、轻量、好用的划词翻译软件
 url: https://github.com/zu1k/translator

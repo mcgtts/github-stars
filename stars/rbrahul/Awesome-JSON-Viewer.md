@@ -1,6 +1,6 @@
 ---
 project: Awesome-JSON-Viewer
-stars: 567
+stars: 568
 description: |-
     :fire: A Chrome extension to visualise JSON response and  introduce awesome JSON prettifying experiences.
 url: https://github.com/rbrahul/Awesome-JSON-Viewer

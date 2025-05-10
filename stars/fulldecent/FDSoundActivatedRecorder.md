@@ -1,6 +1,6 @@
 ---
 project: FDSoundActivatedRecorder
-stars: 292
+stars: 293
 description: |-
     Start recording when the user speaks
 url: https://github.com/fulldecent/FDSoundActivatedRecorder

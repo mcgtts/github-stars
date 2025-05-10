@@ -1,6 +1,6 @@
 ---
 project: whisper.cpp
-stars: 39699
+stars: 39860
 description: |-
     Port of OpenAI's Whisper model in C/C++
 url: https://github.com/ggml-org/whisper.cpp

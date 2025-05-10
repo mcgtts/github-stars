@@ -1,6 +1,6 @@
 ---
 project: iSimulator
-stars: 1159
+stars: 1162
 description: |-
     iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 url: https://github.com/wigl/iSimulator

@@ -1,6 +1,6 @@
 ---
 project: nx
-stars: 25536
+stars: 25613
 description: |-
     Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 url: https://github.com/nrwl/nx

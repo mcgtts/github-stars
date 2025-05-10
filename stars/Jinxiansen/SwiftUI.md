@@ -1,6 +1,6 @@
 ---
 project: SwiftUI
-stars: 5369
+stars: 5371
 description: |-
     `SwiftUI` Framework  Learning and Usage Guide. 🚀 
 url: https://github.com/Jinxiansen/SwiftUI

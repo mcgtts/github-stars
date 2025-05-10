@@ -1,6 +1,6 @@
 ---
 project: theatre
-stars: 11698
+stars: 11704
 description: |-
     Motion design editor for the web
 url: https://github.com/theatre-js/theatre

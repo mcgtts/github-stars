@@ -1,6 +1,6 @@
 ---
 project: maybe
-stars: 43901
+stars: 44105
 description: |-
     The personal finance app for everyone
 url: https://github.com/maybe-finance/maybe

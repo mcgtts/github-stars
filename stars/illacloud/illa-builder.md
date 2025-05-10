@@ -1,6 +1,6 @@
 ---
 project: illa-builder
-stars: 11988
+stars: 11990
 description: |-
     Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool. 
 url: https://github.com/illacloud/illa-builder

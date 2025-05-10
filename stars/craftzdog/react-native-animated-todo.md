@@ -1,6 +1,6 @@
 ---
 project: react-native-animated-todo
-stars: 461
+stars: 460
 description: |-
     Animated ToDo app built with React Native and Reanimated v2
 url: https://github.com/craftzdog/react-native-animated-todo

@@ -1,6 +1,6 @@
 ---
 project: figma-html
-stars: 3326
+stars: 3335
 description: |-
     Convert any website to editable Figma designs
 url: https://github.com/BuilderIO/figma-html

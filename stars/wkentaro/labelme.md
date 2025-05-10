@@ -1,6 +1,6 @@
 ---
 project: labelme
-stars: 14402
+stars: 14432
 description: |-
     Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 url: https://github.com/wkentaro/labelme

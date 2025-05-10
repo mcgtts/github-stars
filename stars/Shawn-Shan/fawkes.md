@@ -1,6 +1,6 @@
 ---
 project: fawkes
-stars: 5343
+stars: 5345
 description: |-
     Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 url: https://github.com/Shawn-Shan/fawkes

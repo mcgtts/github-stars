@@ -1,6 +1,6 @@
 ---
 project: span-tree
-stars: 225
+stars: 226
 description: |-
     🌳 Tree for GitLab
 url: https://github.com/tavyandy97/span-tree

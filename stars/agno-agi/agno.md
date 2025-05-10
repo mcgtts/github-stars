@@ -1,6 +1,6 @@
 ---
 project: agno
-stars: 26089
+stars: 26453
 description: |-
     Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 url: https://github.com/agno-agi/agno

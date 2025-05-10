@@ -1,6 +1,6 @@
 ---
 project: design-blocks
-stars: 13528
+stars: 13534
 description: |-
     A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 url: https://github.com/froala/design-blocks

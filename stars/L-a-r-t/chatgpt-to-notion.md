@@ -1,6 +1,6 @@
 ---
 project: chatgpt-to-notion
-stars: 362
+stars: 364
 description: |-
     ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 url: https://github.com/L-a-r-t/chatgpt-to-notion

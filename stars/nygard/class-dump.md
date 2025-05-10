@@ -1,6 +1,6 @@
 ---
 project: class-dump
-stars: 3466
+stars: 3468
 description: |-
     Generate Objective-C headers from Mach-O files.
 url: https://github.com/nygard/class-dump

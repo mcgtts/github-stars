@@ -1,6 +1,6 @@
 ---
 project: git-sketch-plugin
-stars: 2440
+stars: 2439
 description: |-
     :gem::octocat: A Git client generating pretty diffs built right into Sketch.
 url: https://github.com/mathieudutour/git-sketch-plugin

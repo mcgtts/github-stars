@@ -1,6 +1,6 @@
 ---
 project: PhotoSelectAndCrop
-stars: 106
+stars: 107
 description: |-
     This package integrates a UIImagePickerController into a SwiftUI app. Obtain 1) a copy of the original image, 2) a scaled and / or cropped version of it, 3) a CGFloat and 4) CGPoint. The CGFloat and CGPoint represent the scale and position of the original image used to make the processed version. 
 url: https://github.com/Rillieux/PhotoSelectAndCrop

@@ -1,6 +1,6 @@
 ---
 project: figma-api-demo
-stars: 1322
+stars: 1323
 description: |-
     null
 url: https://github.com/figma/figma-api-demo
